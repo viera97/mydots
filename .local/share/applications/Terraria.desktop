@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Terraria/Terraria
+GenericName[en_US]=Terraria
+GenericName=Terraria
+Icon=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Terraria/Terraria.png
+MimeType=
+Name[en_US]=Terraria
+Name=Terraria
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

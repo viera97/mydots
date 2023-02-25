@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[en_US]=
+Comment=
+Exec=wine /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Windows/Cuphead/Cuphead.exe
+GenericName[en_US]=Cuphead
+GenericName=Cuphead
+Icon=/home/viera/.icons/cuphead.webp
+MimeType=
+Name[en_US]=Cuphead
+Name=Cuphead
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

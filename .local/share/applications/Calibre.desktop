@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/calibre_6.5.0_x86_64.AppImage
+GenericName[en_US]=Calibre Library
+GenericName=Calibre Library
+Icon=/home/viera/.icons/calibre.png
+MimeType=
+Name[en_US]=Calibre Library
+Name=Calibre Library
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

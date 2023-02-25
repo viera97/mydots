@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=ISO Boot Utility.
+Comment=ISO Boot Utility.
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/balenaEtcher-1.10.2-x64.AppImage
+GenericName[en_US]=
+GenericName=
+Icon=/home/viera/.icons/balena.png
+MimeType=
+Name[en_US]=Balena Etcher
+Name=Balena Etcher
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+TryExec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/balenaEtcher-1.10.2-x64.AppImage
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

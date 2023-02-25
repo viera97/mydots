@@ -1,0 +1,4 @@
+[global]
+index=http://nexus.prod.uci.cu/repository/pypi-proxy/simple/
+index-url=http://nexus.prod.uci.cu/repository/pypi-proxy/simple/
+trusted-host=nexus.prod.uci.cu

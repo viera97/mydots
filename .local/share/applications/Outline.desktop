@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/Outline-Client.AppImage %u
+GenericName[en_US]=Outline
+GenericName=Outline
+Icon=/home/viera/.icons/outline.png
+Name[en_US]=Outline
+Name=Outline
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+MimeType=x-scheme-handler/ssconf;x-scheme-handler/ss;text/html;

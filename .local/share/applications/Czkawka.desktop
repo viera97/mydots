@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/linux_czkawka_gui
+GenericName[en_US]=
+GenericName=
+Icon=/home/viera/.icons/2ed04e00-408a-11eb-9b04-a8e493beaffa.png
+MimeType=
+Name[en_US]=Czkawka
+Name=Czkawka
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

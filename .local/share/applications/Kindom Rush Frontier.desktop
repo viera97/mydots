@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[en_US]=
+Comment=
+Exec=sh /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/2013-KindomRush-Frontiers/run.sh
+GenericName[en_US]=Kindom Rush Frontier
+GenericName=Kindom Rush Frontier
+Icon=/home/viera/.icons/krf.jpeg
+MimeType=
+Name[en_US]=Kindom Rush Frontier
+Name=Kindom Rush Frontier
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

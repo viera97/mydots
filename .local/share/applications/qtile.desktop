@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Qtile
+Type=Application
+Exec=/home/viera/.local/bin/qtile start
+Icon=qtile
+NoDisplay=true
+OnlyShowIn=Custom
+X-GNOME-WMName=qtile
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Autostart-Notify=false
+X-GNOME-Provides=windowmanager

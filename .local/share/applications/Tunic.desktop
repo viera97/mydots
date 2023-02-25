@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[en_US]=
+Comment=
+Exec=wine /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Windows/TUNIC/Tunic.exe
+GenericName[en_US]=Tunic
+GenericName=Tunic
+Icon=/home/viera/.icons/tunic.jpg
+MimeType=
+Name[en_US]=Tunic
+Name=Tunic
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

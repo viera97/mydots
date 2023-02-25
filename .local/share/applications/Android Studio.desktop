@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/home/viera/Dev/android-studio-2021.3.1.16-linux/android-studio/bin/studio.sh
+GenericName[en_US]=
+GenericName=
+Icon=/home/viera/Dev/android-studio-2021.3.1.16-linux/android-studio/bin/studio.png
+MimeType=
+Name[en_US]=Android Studio
+Name=Android Studio
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

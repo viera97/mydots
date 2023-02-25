@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/audacity-linux-3.1.3-x86_64.AppImage
+GenericName[en_US]=Audacity
+GenericName=Audacity
+Icon=/home/viera/.icons/Audacity_Logo_nofilter.svg.png
+MimeType=
+Name[en_US]=Audacity
+Name=Audacity
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

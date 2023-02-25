@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/ventoy-1.0.85/VentoyGUI.x86_64 %u
+GenericName[en_US]=Ventoy
+GenericName=Ventoy
+Icon=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/ventoy-1.0.85/WebUI/favicon.ico
+MimeType=
+Name[en_US]=Ventoy
+Name=Ventoy
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

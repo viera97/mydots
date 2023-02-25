@@ -1,0 +1,17 @@
+classic: false
+
+blocks:
+  - permission
+  - size
+  - name
+
+color:
+  when: auto
+  theme: default
+
+date: date
+
+indicators: false
+
+sorting:
+  dir-grouping: first

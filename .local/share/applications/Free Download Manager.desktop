@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/freedownloadmanager-6.18.1.4920-x86-64.AppImage
+GenericName[en_US]=Free Download Manager
+GenericName=Free Download Manager
+Icon=/home/viera/.icons/Free-Download-Manager-Logo.png
+MimeType=
+Name[en_US]=Free Downloader Manager
+Name=Free Download Manager
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

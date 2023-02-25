@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[en_US]=Formar encoder.
+Comment=Formar encoder.
+Exec=wine /mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/FormatFactory/FormatFactory.exe
+GenericName[en_US]=Format Factory
+GenericName=Format Factory
+Icon=/home/viera/.icons/FormatFactory.png
+MimeType=
+Name[en_US]=Format Factory
+Name=Format Factory
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

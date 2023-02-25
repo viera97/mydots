@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=
+Comment=
+Exec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/Fluent.Reader.0.8.0.AppImage
+GenericName[en_US]=Fluent Reader
+GenericName=Fluent Reader
+Icon=/home/viera/.icons/Fluent_Reader.png
+MimeType=
+Name[en_US]=Fluent Reader
+Name=Fluent Reader
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[en_US]=
+Comment=
+Exec=sh /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/2017-HollowKnight/start.sh
+GenericName[en_US]=Hollow Knight
+GenericName=Hollow Knight
+Icon=/home/viera/.icons/Hollow Knight.png
+MimeType=
+Name[en_US]=Hollow Knight
+Name=Hollow Knight
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

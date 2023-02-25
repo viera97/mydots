@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Network;
+Comment[en_US]=The desktop client for Tutanota, the secure e-mail service.
+Comment=The desktop client for Tutanota, the secure e-mail service.
+Exec="/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/tutanota-desktop-linux.AppImage" %U
+GenericName[en_US]=Mail Client
+GenericName=Mail Client
+Icon=/home/viera/.icons/proxy-image.png
+Keywords=Email;E-mail
+MimeType=
+Name[en_US]=Tutanota Desktop
+Name=Tutanota Desktop
+Path=
+StartupNotify=true
+StartupWMClass=tutanota-desktop
+Terminal=false
+TerminalOptions=
+TryExec=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/tutanota-desktop-linux.AppImage
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-Tutanota-Version=3.105.9

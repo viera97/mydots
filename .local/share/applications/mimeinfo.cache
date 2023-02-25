@@ -1,0 +1,8 @@
+[MIME Cache]
+text/html=Outline.desktop;
+x-scheme-handler/fdm=freedownloadmanager_fdm_up.desktop;
+x-scheme-handler/sms=org.gnome.Shell.Extensions.GSConnect.desktop;
+x-scheme-handler/ss=Outline.desktop;
+x-scheme-handler/ssconf=Outline.desktop;
+x-scheme-handler/tel=org.gnome.Shell.Extensions.GSConnect.desktop;
+x-scheme-handler/tg=org.telegram.desktop._75c922e004a1cd862cca1b514385f07a.desktop;org.telegram.desktop._ce50610c09f7f531b354e335198d9047.desktop;
