@@ -13,3 +13,15 @@ Where you can find some configurations for my dialy apps in Ubuntu.
 - The folder `.icons` are icon for my `.desktop` files located in `.local/share/applications/`.
 
 * In the `.pip` folder is my configuration for pip ropository from UCI Cuba.
+
+## List of manual configuration
+
+```bash
+update-alternatives --config editor
+```
+
+**Para Arreglar problema de la hora con dual boot**
+
+```bash
+sudo timedatectl set-local-rtc 1
+```

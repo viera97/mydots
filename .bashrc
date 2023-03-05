@@ -132,18 +132,23 @@ alias la="lsd -la"
 alias lt="lsd --tree"
 alias ..="cd .."
 alias hibernate="systemctl hibernate"
+alias gitlog="git log --oneline --decorate --all --graph"
+alias gitstatus="git status -s -b"
+
+alias telegram-Cli="telegram-Cli --enable-msg-id"
 
 #Folders Vars
-export pro="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Proyectos/Programming/"
+export pro="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Proyectos/"
 export yudiel="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Proyectos/Programming/Pruebas/Proyecto/"
 
 #FPS wine
-#export DXVK_HUD=1
+export DXVK_HUD=1
 
 #Path
 export EDITOR=vim
 export PATH="/home/viera/.local/bin:$PATH"
 export PATH="/home/viera/.proxyman:$PATH"
+
 export PATH="/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/glow-master:$PATH"
 export PATH="/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/go/bin:$PATH"
 
