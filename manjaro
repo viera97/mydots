@@ -1,0 +1,8 @@
+Server = https://mirror.alpix.eu/manjaro/unstable/$repo/$arch
+https://nexus.uclv.edu.cu/repository/manjaro/stable
+ftp.uo.edu.cu
+ftp.unah.edu.cu
+soft.uclv.edu.cu
+depues
+
+sudo pacman -Syyu

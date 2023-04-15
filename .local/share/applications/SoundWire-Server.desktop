@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=AudioVideo;Audio;
+Comment[en_US]=Server program for SoundWire Android app
+Comment=Server program for SoundWire Android app
+Exec=/home/viera/Apps/SoundWireServer/SoundWireServer
+GenericName[en_US]=
+GenericName=
+Icon=/home/viera/.icon/sw-icon.xpm
+MimeType=
+Name[en_US]=SoundWire Server
+Name=SoundWire Server
+Path=
+StartupNotify=true
+StartupWMClass=SoundWireServer
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
