@@ -116,7 +116,9 @@ if ! shopt -oq posix; then
   fi
 fi
 
-#Mine
+#MINE
+#ALIAS
+
 alias capto='sudo cp /etc/apt/sources.list.o /etc/apt/sources.list'
 alias captv='sudo cp /etc/apt/sources.list.v /etc/apt/sources.list'
 
@@ -131,33 +133,33 @@ alias ls="lsd -l"
 alias la="lsd -la"
 alias lt="lsd --tree"
 alias ..="cd .."
-alias hibernate="systemctl hibernate"
+
+#alias hibernate="systemctl hibernate"
 alias gitlog="git log --oneline --decorate --all --graph"
 alias gitstatus="git status -s -b"
 
-alias telegram-Cli="telegram-Cli --enable-msg-id"
-
-#Folders Vars
-export pro="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Proyectos/"
-export yudiel="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Proyectos/Programming/Pruebas/Proyecto/"
+#alias telegram-Cli="telegram-Cli --enable-msg-id"
 
 #FPS wine
-export DXVK_HUD=1
+#export DXVK_HUD=1
 
-#Path
+#PATH
 export EDITOR=vim
 export PATH="/home/viera/.local/bin:$PATH"
 export PATH="/home/viera/.proxyman:$PATH"
 
-export PATH="/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/glow-master:$PATH"
-export PATH="/mnt/9b05823c-e620-4809-8588-6604613ea4af/Apps/go/bin:$PATH"
+export pro="/mnt/LWORK/Proyectos/"
+export yudiel="/mnt/LWORK/Proyectos/Programming/Pruebas/Proyecto/"
+
+export PATH="/mnt/LDATA/Apps/glow-master:$PATH"
+export PATH="/mnt/LDATA/Apps/go/bin:$PATH"
 
 #For Android Development
-export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/flutter/bin:$PATH"
-export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/android-studio-2021.3.1.16-linux/android-studio/bin:$PATH"
-export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/platform-tools_r33.0.3-linux/platform-tools:$PATH"
-export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/adt-bundle-linux-x86-20140321/sdk:$PATH"
-export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/adt-bundle-linux-x86-20140321/sdk/cmdline-tools/latest-3/bin:$PATH"
+#export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/flutter/bin:$PATH"
+#export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/android-studio-2021.3.1.16-linux/android-studio/bin:$PATH"
+#export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/platform-tools_r33.0.3-linux/platform-tools:$PATH"
+#export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/adt-bundle-linux-x86-20140321/sdk:$PATH"
+#export PATH="/mnt/15f51212-11f2-4a51-910e-f40f059d13a9/Dev/adt-bundle-linux-x86-20140321/sdk/cmdline-tools/latest-3/bin:$PATH"
 
 #LSD
 export LS_COLORS="$LS_COLORS:ow=1;34:tw=1;34:"

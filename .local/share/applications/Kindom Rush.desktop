@@ -1,8 +1,8 @@
 [Desktop Entry]
-Categories=
+Categories=Game
 Comment[en_US]=
 Comment=
-Exec=wine /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Windows/KingdomRush/KingdomRush.exe
+Exec=wine /mnt/LDATA/Games/Windows/KingdomRush/KingdomRush.exe
 GenericName[en_US]=Kindom Rush
 GenericName=Kindom Rush
 Icon=/home/viera/.icons/KindomRush.png

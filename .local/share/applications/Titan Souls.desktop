@@ -1,11 +1,11 @@
 [Desktop Entry]
-Categories=
+Categories=Game
 Comment[en_US]=
 Comment=
-Exec=wine /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Windows/Titan.Souls.Digital.Special.Edition/TITAN.exe
+Exec=wine /mnt/LDATA/Games/Windows/Titan.Souls.Digital.Special.Edition/TITAN.exe
 GenericName[en_US]=Titan Souls
 GenericName=Titan Souls
-Icon=/mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/Windows/Titan.Souls.Digital.Special.Edition/goggame-1427985242.ico
+Icon=/mnt/LDATA/Games/Windows/Titan.Souls.Digital.Special.Edition/goggame-1427985242.ico
 MimeType=
 Name[en_US]=Titan Souls
 Name=Titan Souls

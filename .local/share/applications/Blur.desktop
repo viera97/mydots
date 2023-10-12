@@ -1,14 +1,14 @@
 [Desktop Entry]
-Categories=Utility;
+Categories=Game
 Comment[en_US]=
 Comment=
-Exec=/mnt/LDATA/Apps/ventoy-1.0.85/VentoyGUI.x86_64 %u
-GenericName[en_US]=Ventoy
-GenericName=Ventoy
-Icon=/mnt/LDATA/Apps/ventoy-1.0.85/WebUI/favicon.ico
+Exec=wine start /d /mnt/LDATA/Games/Windows/Blur/ Blur.exe
+GenericName[en_US]=Blur  
+GenericName=Blur
+Icon=/home/viera/.icons/3xhumed-Mega-Games-Pack-39-Blur-1.ico
 MimeType=
-Name[en_US]=Ventoy
-Name=Ventoy
+Name[en_US]=Blur
+Name=Blur
 Path=
 StartupNotify=true
 StartupWMClass=

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=ulauncher-toggle
+Name=ulauncher-toggle
+NoDisplay=true
+StartupNotify=false
+Type=Application
+X-KDE-GlobalAccel-CommandShortcut=true

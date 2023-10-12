@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Game
+Comment[en_US]=
+Comment=
+Exec=wine start /d /mnt/LDATA/Games/Windows/NeedforSpeedMostWanted/ speed.exe
+GenericName[en_US]=Need For Speed Most Wanted  
+GenericName=Need For Speed Most Wanted
+Icon=/mnt/LDATA/Games/Windows/NeedforSpeedMostWanted/NFSMW_icon.ico
+MimeType=
+Name[en_US]=Need For Speed Most Wanted
+Name=Need For Speed Most Wanted
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

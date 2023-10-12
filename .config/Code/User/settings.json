@@ -1,28 +1,33 @@
 {
-  "[latex]": {
-    "editor.formatOnPaste": false,
-    "editor.suggestSelection": "recentlyUsedByPrefix",
-    "editor.wordWrap": "on"
-  },
-  "latex-workshop.view.pdf.viewer": "external",
+    "[python]": {
+        "editor.wordBasedSuggestions": false
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/viera/.local/bin"
+    ],
+    "python.defaultInterpreterPath": "/bin/python3",
 
-  "[python]": {
-    "editor.wordBasedSuggestions": false
-  },
-  "python.defaultInterpreterPath": "/bin/python3",
-  "python.autoComplete.extraPaths": ["/home/viera/.local/bin"],
-  "python.analysis.extraPaths": ["/home/viera/.local/bin"],
+    "[latex]": {
+        "editor.formatOnPaste": false,
+        "editor.suggestSelection": "recentlyUsedByPrefix",
+        "editor.wordWrap": "on"
+    },
+    "latex-workshop.view.pdf.viewer": "external",
 
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  },
+    "[html]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false
+    },
 
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.linkedEditing": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",,
+    "editor.linkedEditing": true,
 
-  "workbench.iconTheme": "material-icon-theme",
-
-  "security.workspace.trust.enabled": false
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Default Dark+",
+    
+    "security.workspace.trust.enabled": false,
 }

@@ -1,8 +1,8 @@
 [Desktop Entry]
-Categories=
+Categories=Game
 Comment[en_US]=
 Comment=
-Exec=sh /mnt/9b05823c-e620-4809-8588-6604613ea4af/Games/2017-HollowKnight/start.sh
+Exec=sh /mnt/LDATA/Games/2017-HollowKnight/start.sh
 GenericName[en_US]=Hollow Knight
 GenericName=Hollow Knight
 Icon=/home/viera/.icons/Hollow Knight.png

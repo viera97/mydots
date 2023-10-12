@@ -1,5 +1,11 @@
 # My Apps for install
 
+Add ppa for lastes kde updates
+
+```bash
+sudo add-apt-repository ppa:kubuntu-ppa/backports
+```
+
 ## Snap:
 
 - BlueMail
@@ -55,6 +61,17 @@ _Force support for only X11_
 - Fluent Reader  
   `flatpak install flathub me.hyliu.fluentreader`
 
+- AudioTube
+  `flatpak install flathub org.kde.audiotube`
+
+- GitHub Desktop
+  `flatpak install flathub io.github.shiftey.Desktop`
+
+- PlasmaTube
+  `flatpak install flathub org.kde.plasmatube`
+
+- Kid3
+  `flatpak install flathub org.kde.kid3`
 ---
 
 ## Apt
@@ -73,7 +90,10 @@ _Force support for only X11_
 - dxvk
 - stacer
 - mpv
-
+- kompare
+- kget
+- Kamoso
+- safeeyes
 ---
 
 - audacity
@@ -82,6 +102,7 @@ _Force support for only X11_
 - obs-studio
 - krita
 - inkscape
+- elisa
 
 ---
 
@@ -109,7 +130,9 @@ _Force support for only X11_
 - [VScode](https://code.visualstudio.com/download)
 - [Geogebra](https://www.geogebra.org/download?lang=es)
 - [Zoom](https://support.zoom.us/hc/es/articles/204206269-Instalaci%C3%B3n-o-actualizaci%C3%B3n-de-Zoom-en-Linux)
-
+- [Safing Portmaster](https://safing.io/)
+- Microsoft Edge
+- Brave
 ---
 
 ## Binarios
@@ -117,6 +140,7 @@ _Force support for only X11_
 - proxyman
 - [fsearch](https://github.com/cboxdoerfer/fsearch)  
   **install**
+- anki
 
 ```bash
 sudo apt install git build-essential meson itstool libtool pkg-config intltool libicu-dev libpcre2-dev libglib2.0-dev libgtk-3-dev libxml2-utils
@@ -140,7 +164,7 @@ ninja -C builddir install
 
 - [Balena Etcher](https://www.balena.io/etcher#download-etcher)
 - [Tutanota](https://tutanota.com/blog/posts/desktop-clients)
-
+- Bitwarden
 ---
 
 ## Office Extensions
