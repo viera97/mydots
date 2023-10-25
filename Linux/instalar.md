@@ -193,3 +193,6 @@ ninja -C builddir install
 - [status area horizontal spacing](https://extensions.gnome.org/extension/1075/center-area-horizontal-spacing/)
 - [tiling assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
 - [vitals](https://extensions.gnome.org/extension/1460/vitals/)
+
+## Modify bash shell
+- [blesh](https://github.com/akinomyoga/ble.sh)
