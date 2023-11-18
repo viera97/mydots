@@ -1,0 +1,7 @@
+author: Viera97
+description: Password Generator
+name: passwordgeneratorlinux
+title: Password Generator - Linux
+version: 0.1.0
+homepage: "https://github.com/viera97/passwordgeneratorlinux"
+tags: ["password", "python", "linux"]

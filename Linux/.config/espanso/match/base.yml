@@ -1,0 +1,105 @@
+# espanso match file
+
+# For a complete introduction, visit the official docs at: https://espanso.org/docs/
+
+# You can use this file to define the base matches (aka snippets)
+# that will be available in every application when using espanso.
+
+# Matches are substitution rules: when you type the "trigger" string
+# it gets replaced by the "replace" string.
+matches:
+  # Simple text replacement
+  - trigger: ":espanso"
+    replace: "Hi there!"
+
+  # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
+
+  # But matches can also be dynamic:
+
+  # Print the current date
+  - trigger: ":date"
+    replace: "{{mydate}}"
+    vars:
+      - name: mydate
+        type: date
+        params:
+          format: "%m/%d/%Y"
+
+  # Print the output of a shell command
+  - trigger: ":shell"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: "echo 'Hello from your shell'"
+          
+  - trigger: ":mail"
+    replace: "d.viera1997@gmail.com"
+
+  - trigger: ":mywine"
+    replace: "export WINEPREFIX=/home/viera/.mywine"
+
+  - trigger: ":in:"
+    replace: "∈"
+
+  - trigger: ":notin:"
+    replace: "∉:"
+
+  - trigger: ":forall:"
+    replace: "∀"
+
+  - trigger: ":exists:"
+    replace: "∃"
+
+  - trigger: ":noexists:"
+    replace: "∄"
+
+  - trigger: ":emptyset:"
+    replace: "∅"
+
+  - trigger: ":infty:"
+    replace: "∞"
+
+  - trigger: ":neq:"
+    replace: "≠"
+
+  - trigger: ":geq:"
+    replace: "≥"
+
+  - trigger: ":leq:"
+    replace: "≤"
+
+  - trigger: ":subset:"
+    replace: "⊂"
+
+  - trigger: ":pm:"
+    replace: "±"
+
+  - trigger: ":cap:"
+    replace: "⋂"
+
+  - trigger: ":cup:"
+    replace: "⋃"
+
+  - trigger: ":partial:"
+    replace: "𝜕"
+
+  - trigger: ":N:"
+    replace: "ℕ"
+
+  - trigger: ":Z:"
+    replace: "ℤ"
+
+  - trigger: ":Q:"
+    replace: "ℚ"
+
+  - trigger: ":R:"
+    replace: "ℝ"
+
+  - tirgger: ":C:"
+    replace: "ℂ"
+  
+  
+
+  # And much more! For more information, visit the docs: https://espanso.org/docs/

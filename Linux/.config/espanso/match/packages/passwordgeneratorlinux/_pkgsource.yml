@@ -1,0 +1,5 @@
+---
+git:
+  repo_url: "https://github.com/viera97/passwordgeneratorlinux"
+  repo_branch: ~
+  use_native_git: false
